@@ -6,3 +6,16 @@ tables info-
 2- Vehicle
 3-Parking table
 4-slot details
+
+
+MOM-29jan 
+4 PAGES:
+1. landing page 
+2. subscription renewal page 
+3. new user
+4. update user
+
+case1- when new vehicle is brought in a valid subscription 
+add a record for that vehicle and update the old vehicle as inactive 
+case2- when subscription needs to be renewed 
+add new subscription entry
